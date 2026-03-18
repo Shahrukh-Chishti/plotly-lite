@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Plotly-Lite
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Shahrukh
+    family-names: Chishti
+    email: shahrukh.chishti@gmail.com
+    affiliation: Forschungzentrum-Juelich
+    orcid: 'https://orcid.org/0000-0002-6014-1433'
+repository-code: 'https://github.com/Shahrukh-Chishti/plotly-lite'
+abstract: >-
+    Plotting library for quick scientific checks as a wrapper on Plotly
+keywords:
+  - plotly
+  - optimization
+license: Apache-2.0
