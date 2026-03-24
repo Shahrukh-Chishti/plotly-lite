@@ -1,2 +1,4 @@
+kaleido>=2.11
 plotly>=5.19.0
 matplotlib
+nbformat
