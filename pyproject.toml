@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "plotly-lite"          # must be unique on PyPI
-version = "0.1.0"
+version = "0.1.1"
 description = "lite version wrapper on plotly for quick utilization for scientific graphs"
 readme = "README.md"
 license = { file = "LICENSE" }

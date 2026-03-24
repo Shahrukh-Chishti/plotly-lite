@@ -9,7 +9,7 @@ def load_requirements(path):
 
 setup(name='Plotly-Lite',
         author='Shahrukh Chishti',
-        version="0.1.0",
+        version="0.1.1",
         python_requires=">=3.11",
         packages=find_packages(),
         install_requires=load_requirements(root / "requirements.txt"),
